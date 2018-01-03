@@ -1,2 +1,5 @@
 # hello-world
-hello-world test scenario
+
+Hi,
+
+My name is Michael Wells and I am learning how to code.  So far so good.
